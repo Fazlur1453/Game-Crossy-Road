@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e5ac7e2731100f44abedaeb255322803
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 5051712541983994572, guid: 31ae2fedfaac8bf4fa9df09a2bd9d0fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
